@@ -1,4 +1,4 @@
--- __BiterShield2__/scripts/rollers/QualityRoller.lua
+-- __bitershield2-updated__/scripts/rollers/QualityRoller.lua
 -- ------------------------------------------------------------
 -- 責務:
 --   enemy evolution factor (evo) と乱数 r に基づき、

@@ -1,18 +1,23 @@
 {
-    "name": "BiterShield2",
-    "version": "1.0.0",
-    "factorio_version": "2.0",
-    "title": "Quality for Biters!",
-    "author": "suumani",
-    "description": "Players will be environmentally friendly ;)",
-    "thumbnail": "thumbnail.png",
-    "dependencies": [
-    "base >= 2.0.0",
+  "name": "bitershield2-updated",
+  "version": "1.0.1",
+  "factorio_version": "2.1",
+  "title": "Quality for Biters!: Updated",
+  "author": "suumani",
+  "description": "Players will be environmentally friendly ;) Updated for Factorio 2.1; retains original prototype and setting names.",
+  "thumbnail": "thumbnail.png",
+  "dependencies": [
+    "base >= 2.1.24",
     "quality >= 2.0.0",
     "? Cold_biters >= 2.0.0",
     "? Explosive_biters >= 2.2.0",
     "? Toxic_biters >= 2.0.0",
     "? ArmouredBiters",
-    "? Big-Monsters >= 2.0.0"
-    ]
+    "? Big-Monsters >= 2.0.0",
+    "! BiterShield2"
+  ],
+  "homepage": "https://github.com/FactorioMods/bitershield2-updated",
+  "migrates_from": [
+    "BiterShield2"
+  ]
 }

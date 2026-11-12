@@ -1,0 +1,5 @@
+Original mod: BiterShield2
+Original author: suumani
+Original release: https://mods.factorio.com/mod/BiterShield2
+Compatibility fork: https://github.com/FactorioMods/bitershield2-updated
+Original source credits and licenses remain applicable.

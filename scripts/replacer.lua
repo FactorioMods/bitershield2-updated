@@ -1,4 +1,4 @@
--- __BiterShield2__/scripts/replacer.lua
+-- __bitershield2-updated__/scripts/replacer.lua
 -- ------------------------------------------------------------
 -- 責務:
 --   対象となる敵エンティティ（巣・ワームなど）に対して品質ロールを行い、

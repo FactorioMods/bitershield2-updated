@@ -1,4 +1,4 @@
--- __BiterShield2__/scripts/util/DeterministicRandom.lua
+-- __bitershield2-updated__/scripts/util/DeterministicRandom.lua
 -- ------------------------------------------------------------
 -- 責務:
 --   Factorio公式の同期乱数(LuaRandomGenerator)を使い、

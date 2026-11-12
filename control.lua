@@ -1,3 +1,4 @@
+local import_removed_storage = require("native-storage-import")
 -- ------------------------------------------------------------
 -- 責務:
 --   QFB Mod のイベント境界を管理する。
@@ -24,11 +25,13 @@ local function rebuild_filter_cache()
 end
 
 script.on_init(function()
+  import_removed_storage()
   DRand.init()
   rebuild_filter_cache()
 end)
 
 script.on_configuration_changed(function()
+  import_removed_storage()
   DRand.init()
   rebuild_filter_cache()
 end)

@@ -1,4 +1,4 @@
--- __BiterShield2__/scripts/defines/qfb_catalog.lua
+-- __bitershield2-updated__/scripts/defines/qfb_catalog.lua
 -- ------------------------------------------------------------
 -- 責務:
 -- - 設定項目を生成するための「敵名カタログ」を提供する。

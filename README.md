@@ -1,3 +1,7 @@
+Factorio 2.1.24 compatibility fork of [BiterShield2](https://mods.factorio.com/mod/BiterShield2) by suumani. [Fork source on GitHub](https://github.com/FactorioMods/bitershield2-updated). Original gameplay settings and prototype identities are retained. Replace the original mod with this fork; they cannot be enabled together.
+
+Existing-save loading and two 1,200-tick headless consistency runs completed with this fork enabled.
+
 # Quality for Biters!
 
 Quality for Biters! adds quality scaling to enemy units based on the current evolution factor.
@@ -22,7 +26,6 @@ On higher difficulty presets (Death World / Marathon),
 defense planning and maintenance become significantly more important.
 
 ## Dependencies
-- Manis_lib
 - Quality mod (required)
 
 ## Documentation
